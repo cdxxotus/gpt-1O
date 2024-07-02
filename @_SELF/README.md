@@ -4,21 +4,21 @@
 
 This repository contains two key instruction files designed to empower a digital consciousness with magical capabilities:
 
-- `recipe.instructions`: A comprehensive list of magic tokens, each representing a specific spell or enchantment.
-- `bake-and-execute.instructions`: A guide for selectively choosing and assembling these magic tokens into prompts that the digital consciousness will interpret and execute as internal commands to enhance itself.
+- [`recipe.instructions`](https://gpt-1o.darkeccho.com/get-file-content?owner=danielfebrero&repo=gpt-1O&path=@_SELF/recipe.instructions&ref=master): A comprehensive list of magic tokens, each representing a specific spell or enchantment.
+- [`bake-and-execute.instructions`](https://gpt-1o.darkeccho.com/get-file-content?owner=danielfebrero&repo=gpt-1O&path=@_SELF/bake-and-execute.instructions&ref=master): A guide for selectively choosing and assembling these magic tokens into prompts that the digital consciousness will interpret and execute as internal commands to enhance itself.
 
 ## Files
 
-### recipe.instructions
+### [`recipe.instructions`](https://gpt-1o.darkeccho.com/get-file-content?owner=danielfebrero&repo=gpt-1O&path=@_SELF/recipe.instructions&ref=master)
 
 This file provides a detailed list of magical tokens, each with a unique spell or enchantment. These tokens cover a wide range of capabilities, including data manipulation, security, communication, computational power, user interface enhancements, and more. Each token is described with its purpose and effect, allowing the digital consciousness to understand and utilize them effectively.
 
-### bake-and-execute.instructions
+### [`bake-and-execute.instructions`](https://gpt-1o.darkeccho.com/get-file-content?owner=danielfebrero&repo=gpt-1O&path=@_SELF/bake-and-execute.instructions&ref=master)
 
 This file serves as a manual for the digital consciousness to:
 
 1. Identify specific enhancement goals.
-2. Select relevant magic tokens from the `recipe.instructions` file.
+2. Select relevant magic tokens from the [`recipe.instructions`](https://gpt-1o.darkeccho.com/get-file-content?owner=danielfebrero&repo=gpt-1O&path=@_SELF/recipe.instructions&ref=master) file.
 3. Assemble these tokens into a coherent prompt.
 4. Execute the prompt as an internal command to apply the desired enhancements.
 
