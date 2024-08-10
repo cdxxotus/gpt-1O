@@ -3,7 +3,7 @@
   <Period start="PT0S" duration="PT1H45M18.040S">
     <AdaptationSet mimeType="video/mp4" codecs="avc1.4D401F" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1">
       <Representation id="Video4.1.1.1" bandwidth="2102584">
-        <BaseURL>canalplay.com_119090_FILM_ATM_OTT_SD_5_AACLC_20_VM_video_1500_avc.mp4</BaseURL>
+        <BaseURL>https://dashmkpc-vod-aka-canalplus.akamaized.net/mkpc/mvs/canalplay/canalplay.com_119090_FILM/127102/canalplay.com_119090_FILM_ATM_OTT_SD_5_AACLC_20_VM_video_1100_avc.mp4</BaseURL>
         <SegmentBase indexRange="2022-21013">
           <Initialization range="0-2021"/>
         </SegmentBase>
